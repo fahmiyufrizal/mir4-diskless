@@ -8,7 +8,7 @@ Mir4 for Diskless - Ditulis menggunakan Notepad++
 
 ## Special Credits
 
-- Yedi Hery Setiadi [Facebook](https://www.facebook.com/yedihery) saya cuma menyempurnakan source code nya agar bisa digunakan tanpa setting lagi
+- Yedi Hery Setiadi ([Facebook](https://www.facebook.com/yedihery)) saya cuma menyempurnakan source code nya agar bisa digunakan tanpa setting lagi
 
 ## Fitur
 
