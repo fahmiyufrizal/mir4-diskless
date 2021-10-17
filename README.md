@@ -17,9 +17,10 @@ Mir4 for Diskless - Ditulis menggunakan Notepad++
 
 ## Instalasi dan cara menggunakan
 
-- Pastikan mir4global sudah terinstall dengan baik di server
-- Cukup taruh file Mir4_diskless.exe didalam folder Mir4Global di gamedisk (misal D:\Mir4Global\mir4_diskless.exe)
-- Pastikan file mir4_diskless sejajar dengan folder Mir4Client dan Mir4Launcher
+0. Pastikan installan Mir4 di server sudah oke, sudah terupdate dengan baik
+1. Buka Mir4 server, lakukan unload
+2. Setelah sukses, cek folder _fahmiyufrizal, bila ada folder Mir4Launcher dan registry tandanya unload sudah sukses
+3. Jalankan Mir4 Client di client
 
 ## Terimakasih Kepada
 
